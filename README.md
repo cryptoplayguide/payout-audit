@@ -1,5 +1,7 @@
 # payout-audit
 
+> **Try it in your browser:** [https://cryptoplay.guide/tools/payout-rtp-audit/](https://cryptoplay.guide/tools/payout-rtp-audit/) — free, runs client-side, no sign-up. 18+, for education only.
+
 Small, dependency-free JavaScript package for auditing a JSON probability/payout table. Calculates return to player (RTP), house edge, expected net result, variance and standard deviation. Node.js 18+ ESM; the pure library also runs in modern browsers with BigInt support.
 
 For background on the calculation, see this explanation of [dice odds and house edge](https://cryptoplay.guide/guides/dice-game-odds-house-edge/).
