@@ -1,0 +1,18 @@
+{
+  "name": "payout-audit",
+  "version": "1.0.0",
+  "description": "Exact probability-table audits for RTP, house edge and payout variance",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "bin": {
+    "payout-audit": "bin/payout-audit.js"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

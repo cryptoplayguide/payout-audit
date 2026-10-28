@@ -1,0 +1,8 @@
+{
+  "description": "One fair six-sided die: win on 6. One winning face out of six; total return 6 times stake.",
+  "payoutIncludesStake": true,
+  "outcomes": [
+    { "label": "6", "probability": "1/6", "payout": "6" },
+    { "label": "1 through 5", "probability": "5/6", "payout": "0" }
+  ]
+}

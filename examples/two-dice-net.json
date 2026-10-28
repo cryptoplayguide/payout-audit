@@ -1,0 +1,8 @@
+{
+  "description": "Two independent fair six-sided dice: win only on (6,6). One winning ordered pair out of 36; net win 34 stakes, net loss 1 stake.",
+  "payoutIncludesStake": false,
+  "outcomes": [
+    { "label": "Both dice show 6", "probability": "1/36", "payout": "34" },
+    { "label": "Any other ordered pair", "probability": "35/36", "payout": "-1" }
+  ]
+}
